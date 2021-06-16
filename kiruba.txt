@@ -1,2 +1,2 @@
 My name is Kirubanand R.
-This is my first GitHub PR.
+This is my First GitHub PR.
